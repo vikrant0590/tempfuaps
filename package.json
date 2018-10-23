@@ -1,0 +1,27 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "apisauce": "^1.0.0",
+    "expo": "^30.0.1",
+    "native-base": "^2.8.1",
+    "prop-types": "^15.6.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-router-flux": "^4.0.5",
+    "react-native-snackbar-dialog": "^1.4.1",
+    "react-redux": "^5.0.5",
+    "react-timer-mixin": "^0.13.4",
+    "redux": "^3.7.0",
+    "redux-persist": "^4.8.0",
+    "redux-thunk": "^2.2.0"
+  }
+}
